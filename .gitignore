@@ -1,0 +1,6 @@
+# ignore version control
+.git
+.svn
+
+# ignore mysql db data
+

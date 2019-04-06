@@ -1,0 +1,43 @@
+# phpstorm project files
+.idea
+
+# version control should not be committed to you application's source control
+.git
+.svn
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# vagrant runtime
+/.vagrant
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+# Your's .env file should not be committed to your application's source control.
+.env
+
+# IDE helper
+_ide_helper.php
+composer.lock
+package-lock.json
+/node_modules
+
+
